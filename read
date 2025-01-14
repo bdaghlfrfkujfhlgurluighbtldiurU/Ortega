@@ -1,0 +1,9 @@
+<h1>YEss</h1>
+<img src="https://www.rollingstone.com/wp-content/uploads/2018/06/rs-202153-2421_DS_S0800P0430_0116RV3.jpg?w=1600&h=900&crop=1>
+<button>Yes</button>
+<button>NO</button>
+<a href="https://lms.lausd.net/home>NO</a>
+body {
+  background-color: slateblue;
+  color: navy-blue;
+}
